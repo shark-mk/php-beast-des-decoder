@@ -276,8 +276,8 @@ msbuild php-beast-des-decoder.sln /p:Configuration=Debug /p:Platform=x64
 #### Output Example
 
 ```
-处理文件: .\test.php -> 返回值: 0, retFlag: false
-处理文件: .\index.php -> 返回值: 0, retFlag: false
+Processing file: .\test.php -> Return value: 0, retFlag: false
+Processing file: .\index.php -> Return value: 0, retFlag: false
 ```
 
 - **Return value 0**: Decryption successful
